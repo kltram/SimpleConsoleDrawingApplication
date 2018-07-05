@@ -13,13 +13,14 @@ Simple Console Drawing Application using Java
  					2. Start drawing on the canvas by issuing various commands
  					3. Quit
 ----------------------------------------------------
+# Software Requirement
 --------------------------------------------------------
-Software Requirement: JDK 1.8
+Java : JDK 1.8
 IDE : Any IDE (Eclipse/ Netbeans/ Myeclipse)
 --------------------------------------------------------
 
 
-Steps to run the commend line  program using any IDE (Eclipse)
+# Steps to run the commend line  program using any IDE (Eclipse)
 --------------------------------------------------------------
 
 Step 1 : Download the .zip file from google drive
@@ -82,7 +83,7 @@ Step 17:   See the output
 Sample I/O
 
 
-Below is a sample run of the program. User input is prefixed with ’enter command:’.
+#  Below is a sample run of the program. User input is prefixed with ’enter command:’.
 
 enter command: C 20 4
 ----------------------
